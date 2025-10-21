@@ -31,7 +31,9 @@ export default function HowItWorksCard({
         {number}
       </div>
 
-      <h1 className={`text-[20px] font-bold mb-[24px] ${textColor}`}>
+      <h1
+        className={`text-[20px] text-center desktop1:text-start font-bold mb-[24px] ${textColor}`}
+      >
         {title}
       </h1>
       <p
@@ -47,10 +49,8 @@ export default function HowItWorksCard({
       <div className="bg-buttonColor mb-[32px] p-[25px] flex justify-center items-center rounded-full h-[48px] w-[48px] text-labelButtons text-title1 font-semibold">
         {number}
       </div>
-      <h1 className="text-[20px] text-colorWhite font-bold mb-[24px]">
-        {title}
-      </h1>
-      <p className="text-[16px] text-colorWhite opacity-70 text-center desktop1:text-left w-full">
+      <h1 className="text-[20px] text-white font-bold mb-[24px]">{title}</h1>
+      <p className="text-[16px] text-white opacity-70 text-center desktop1:text-left w-full">
         {description}
       </p>
     </div>
