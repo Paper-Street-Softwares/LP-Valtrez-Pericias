@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://www.valtrez.com.br/sitemap.xml
+

@@ -1,0 +1,184 @@
+{
+  "infos": {
+    "adress": "Av. Paulista, 1636 - CJ 4 - <br/> PAV. 15 - Sala 1504 -  <br/> Cerqueira César, <br/> CD. Paulista Corporate,  <br/> São Paulo - SP,  <br/> CEP: 01310-200",
+    "adressSecundario": "A_Definir",
+    "expediente": "Segunda a sexta-feira: <br/> A_Definir",
+    "expedienteSecundario": "A_Definir",
+    "obs": "A_Definir"
+  },
+  "navbar": {
+    "menuItems": {
+      "home": "Início",
+      "service": "Serviços",
+      "about": "Sobre Nós",
+      "faq": "Perguntas Frequentes"
+    },
+    "ctaButtonText": "Contato",
+    "ctaButtonTextResponsive": "Contato"
+  },
+  "hero": {
+    "miniTag": "PERÍCIA E SOLUÇÕES CONTÁBEIS",
+    "title": "Precisão, ética e técnica em cálculos <span class=\"text-primary font-bold\">judiciais trabalhistas</span>",
+    "subtitle": "A Valtrez é uma empresa especializada em Perícia Contábil Trabalhista, atuando na elaboração de cálculos judiciais, impugnações, embargos e assistência técnica contábil em processos trabalhistas.",
+    "ctaButtonText": "Fale conosco",
+    "obsHero": {
+      "text": "Atuação nacional | Atendimento remoto e seguro"
+    }
+  },
+  "features": {
+    "miniTag": "ESPECIALIDADE",
+    "title": "Cálculos Trabalhistas com Rigor e Confiabilidade",
+    "subtitle": "Atuamos com excelência na área trabalhista, oferecendo suporte técnico-contábil completo e especializado em todas as etapas do processo judicial e extrajudicial.",
+    "card1": {
+      "title": "Parecer Técnico com Cálculos Detalhados",
+      "subtitle": "Análises precisas para embasar decisões jurídicas.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card2": {
+      "title": "Cálculos de Contingenciamento, Acordos e Execução",
+      "subtitle": "Projeções seguras e estratégicas para cada demanda.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card3": {
+      "title": "Consultoria Contábil-Jurídica Especializada",
+      "subtitle": "Integração entre contabilidade e estratégia legal.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card4": {
+      "title": "Auditoria de Processos Judiciais",
+      "subtitle": "Verificação minuciosa de valores e procedimentos.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir",
+      "servicesButton": "A_Definir"
+    },
+    "card5": {
+      "title": "A_Definir",
+      "subtitle": "A_Definir",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card6": {
+      "title": "A_Definir",
+      "subtitle": "A_Definir",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    }
+  },
+  "maps": {
+    "minitag": "LOCALIZAÇÃO",
+    "title": "A_Definir",
+    "subtitle": "A_Definir",
+    "embedsrc": "A_Definir"
+  },
+  "about": {
+    "imagem": {
+      "alt": "imagem about"
+    },
+    "miniTag": "QUEM É A VALTREZ",
+    "title": "Nossa trajetória",
+    "subtitle": "Comprometimento, precisão e ética na construção de soluções contábeis.",
+    "buttonModalLabelAbout": "Continuar lendo",
+    "paragraph": "A Valtrez nasceu do propósito de unir técnica contábil e conhecimento jurídico para fortalecer a Justiça do Trabalho. Desde o início, buscamos traduzir números em clareza, confiança e embasamento sólido para decisões judiciais e extrajudiciais.",
+    "modal": "A Valtrez nasceu do propósito de unir técnica contábil e conhecimento jurídico para fortalecer a Justiça do Trabalho. Desde o início, buscamos traduzir números em clareza, confiança e embasamento sólido para decisões judiciais e extrajudiciais. <br/><br/> Com uma atuação pautada na ética, no rigor técnico e no compromisso com os prazos, oferecemos cálculos trabalhistas e perícias contábeis que sustentam o trabalho de advogados, contadores e partes envolvidas em processos. <br/><br/> Nosso foco é entregar resultados precisos, com atendimento humanizado e comunicação transparente. Assim, construímos uma trajetória guiada pela responsabilidade e pela busca constante por excelência. <br/><br/>",
+    "ctaButtonAriaLabel": " Quer saber mais sobre nós? Clique abaixo 👇",
+    "ctaButtonText": "Entre em contato",
+    "aboutSocial": {
+      "miniTag": "REDES SOCIAIS",
+      "title": "Conecte-se agora mesmo",
+      "paragraph": "Acompanhe nossas redes e fique por dentro de novidades, conteúdos técnicos e atualizações no universo contábil e trabalhista.",
+      "labelInstagram": "Siga-me no Instagram",
+      "labelFacebook": "Siga-me no Facebook",
+      "labelLinkedin": "Siga-me no Linkedin",
+      "labelX": "Siga-me no X",
+      "labelTikTok": "Siga-me no TikTok"
+    }
+  },
+  "news": {
+    "miniTag": "A_Definir",
+    "title": "A_Definir",
+    "subtitle": "A_Definir",
+    "description": "A_Definir"
+  },
+  "ctaSecondary": {
+    "title": "<span class=\"text-primary font-bold\"></span>Precisa de suporte técnico em cálculos e perícias trabalhistas? <span class=\"text-primary font-bold\">Fale conosco e receba orientação especializada.</span>",
+    "subtitleDireitaPartes": ["E N T R E", "E M", "C O N T A T O", "V I A"],
+    "titleDireita": "WhatsApp",
+    "ctaButtonText": "Entre em Contato"
+  },
+  "steps": {
+    "miniTag": "PASSO A PASSO",
+    "title": "Como funciona nosso atendimento?",
+    "subtitle": "",
+    "cards": {
+      "card1": {
+        "stepNumber": 1,
+        "cardTitle": "Consulta inicial",
+        "cardDescription": "Realizamos uma reunião para entender seu caso e identificar as necessidades contábeis e jurídicas."
+      },
+      "card2": {
+        "stepNumber": 2,
+        "cardTitle": "Análise detalhada",
+        "cardDescription": "Examinamos documentos, cálculos e evidências, garantindo visão completa e precisa do caso."
+      },
+      "card3": {
+        "stepNumber": 3,
+        "cardTitle": "Elaboração da estratégia",
+        "cardDescription": "Desenvolvemos uma estratégia técnica personalizada para assegurar precisão e segurança nos cálculos e laudos."
+      },
+      "card4": {
+        "stepNumber": 4,
+        "cardTitle": "Execução e acompanhamento",
+        "cardDescription": "Conduzimos os cálculos, perícias ou ações judiciais, entregando resultados confiáveis e soluções adequadas ao seu caso."
+      }
+    }
+  },
+  "blog": {
+    "miniTag": "A_Definir",
+    "title": "A_Definir",
+    "subtitle": "A_Definir",
+    "labelCards": "A_Definir",
+    "label": "Clique aqui para ver todas as matérias",
+    "blogLink": "A_Definir"
+  },
+  "faq": {
+    "miniTag": "TIRE SUAS DÚVIDAS",
+    "title": "Perguntas Frequentes",
+    "subtitle": "Confira as perguntas abaixo para esclarecer suas dúvidas.",
+    "questions": {
+      "question1": {
+        "question": "O que é perícia contábil trabalhista?",
+        "answer": "A perícia contábil trabalhista é uma análise técnica realizada por contador habilitado, com o objetivo de esclarecer aspectos financeiros, patrimoniais e contábeis em processos judiciais ou extrajudiciais relacionados ao Direito do Trabalho. Ela visa fornecer informações precisas sobre valores devidos, como salários, horas extras, férias, 13º salário, entre outros, auxiliando na resolução de litígios trabalhistas."
+      },
+      "question2": {
+        "question": "Quem pode atuar como perito contábil trabalhista?",
+        "answer": "Somente profissionais formados em Ciências Contábeis, com registro ativo no Conselho Regional de Contabilidade (CRC), estão habilitados a atuar como peritos contábeis trabalhistas. Além disso, é recomendável que possuam conhecimentos técnicos específicos na área trabalhista e experiência prática em perícias judiciais."
+      },
+      "question3": {
+        "question": "O que deve constar no laudo pericial contábil trabalhista?",
+        "answer": "O laudo pericial contábil trabalhista deve ser claro, objetivo e bem fundamentado. Ele deve conter: <br/><br/>Identificação do processo e das partes envolvidas; <br/> Objetivo da perícia e os quesitos a serem respondidos; <br/> Metodologia utilizada para análise; <br/> Documentos analisados;<br/> Conclusão técnica baseada nos dados estudados; <br/> Assinatura do perito com registro no CRC. <br/><br/> Esse documento serve como elemento de prova em processos judiciais ou para embasar a tomada de decisões."
+      },
+      "question4": {
+        "question": "Qual é a diferença entre perícia contábil e auditoria?",
+        "answer": "A perícia contábil é uma análise técnica específica realizada para esclarecer dúvidas ou resolver conflitos em processos judiciais ou administrativos, com foco em um fato ou situação específica. Já a auditoria é uma análise mais ampla e periódica das demonstrações contábeis de uma empresa, com foco na verificação da conformidade e na transparência das informações financeiras."
+      }
+    },
+    "paragraph": "Clique aqui caso tenha mais dúvidas"
+  },
+  "footer": {
+    "copyrightLine": "{{year}} - {{name}} - Todos os direitos reservados",
+    "footerDivulgacaoText": "Gostaria de ter um site como este? Clique aqui",
+    "midSectionName": "Até mais",
+    "footerText": "Agradecemos sua visita! Esperamos que em breve você se torne nosso cliente e desfrute de todos os benefícios que oferecemos.",
+    "footerSocialText": "A_Definir",
+    "footerNavegacaoText": "NAVEGAÇÃO"
+  }
+}
